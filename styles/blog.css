@@ -1,15 +1,26 @@
-div{
-    background-color: tomato;
-    
-    
-    
+.skiplink{
+    position: absolute;
+    left: -10000px;
+    top: 0;
+
+}
+.skiplink:focus {
+left: 0;
 }
 .article{
+    width: 90%;
+    margin-top: 50px;
+    background-color: tomato;
     display: flex;
+    margin: auto;
+    gap: 10px;
 }
 .blogarticle{
     border: 10px solid yellowgreen;
     padding: 10px;
+    border-radius: 15px;
+    
+    
     
     
 }

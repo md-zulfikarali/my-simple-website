@@ -1,7 +1,7 @@
 div{
     background-color: tomato;
-    padding: 10px;
-    margin-bottom: 10px;
+    
+    
     
 }
 .article{
@@ -9,6 +9,7 @@ div{
 }
 .blogarticle{
     border: 10px solid yellowgreen;
+    padding: 10px;
     
     
 }
